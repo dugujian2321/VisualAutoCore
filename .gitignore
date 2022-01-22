@@ -1,0 +1,17 @@
+ColorLibrary/obj/
+ColorLibrary/bin/
+ColorSearch/bin/
+ColorSearch/obj/
+Log/obj/
+Log/bin/
+SDAuto/bin/
+SDAuto/obj/
+Test/bin/
+Test/obj/
+HotKey/obj/
+AutomationCore/obj/
+AutomationCore/bin/
+AutoFramework/obj/
+AutoFramework/bin/
+CuteControls/obj/
+README.md
